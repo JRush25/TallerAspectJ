@@ -10,6 +10,16 @@ public aspect Logger {
     	System.out.println("**** User created ****");
     }
     
+    pointcut callTransaccion() : call(* moneyMakeTransaction*(..) );
+    after() : callTransaccion() {
+    	RegistrarTransaccion("Transaccion");
+    }
+    
+    pointcut callRetiro() : call(* moneyWithdrawal*(..) );
+    after() : callRetiro() {
+    	RegistrarTransaccion("Retiro");
+    }
+    
     public void RegistrarTransaccion(String operacion) {
         try {
         	Calendar cal = Calendar.getInstance();
