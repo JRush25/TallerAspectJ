@@ -1,6 +1,9 @@
 # TallerAspectJ
 
-Integrantes
+*Integrantes*
 - Torres Duque Joselyne Isabel
 - Yugcha Chichanda Enrique Steeven
-- Jaramillo Arana José Gabriel
+- Jaramillo Arana Jose Gabriel
+
+### Creacion de usuario
+![creacion de usuario](/src/usuario.png)
