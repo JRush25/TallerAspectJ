@@ -5,8 +5,6 @@
 - Yugcha Chichanda Enrique Steeven
 - Jaramillo Arana Jose Gabriel
 
-### Creacion de usuario
-![creacion de usuario](/src/usuario.png)
+### Funcionamiento del programa
+![funcionamiento](/src/funcionamiento.PNG)
 
-**Uso del Aspecto**
-![uso del aspecto](/src/usoAspecto.png)
