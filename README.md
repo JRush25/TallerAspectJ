@@ -8,5 +8,5 @@
 ### Creacion de usuario
 ![creacion de usuario](/src/usuario.png)
 
-###Uso del Aspecto
+**Uso del Aspecto**
 ![uso del aspecto](/src/usoAspecto.png)
